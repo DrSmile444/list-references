@@ -16,12 +16,16 @@
     }
   ],
   "keywords": [
-    "page",
-    "script",
-    "executor",
-    "multiple",
-    "axios",
-    "jsdom"
+    "vak",
+    "dstu",
+    "references",
+    "essay",
+    "thesis",
+    "formatter",
+    "pattern",
+    "реферат",
+    "диплом",
+    "источники"
   ],
   "author": "Dmytro Vakulenko",
   "license": "MIT",
