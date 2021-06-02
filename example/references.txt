@@ -1,0 +1,13 @@
+https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+https://www.atlassian.com/software/jira/guides/use-cases/what-is-jira-used-for
+https://www.atlassian.com/software/jira/guides/getting-started/basics
+https://www.altexsoft.com/blog/engineering/what-is-api-definition-types-specifications-documentation/
+https://www.google.com/calendar/about/
+https://www.google.com/chrome/
+https://developer.chrome.com/docs/devtools/
+https://www.jetbrains.com/webstorm/
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+https://www.typescriptlang.org/
+https://www.npmjs.com/
+https://angular.io/guide/architecture
+https://www.npmjs.com/package/smile-track

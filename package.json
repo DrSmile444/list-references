@@ -1,0 +1,33 @@
+{
+  "name": "list-references",
+  "version": "1.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": "./bin/app.js",
+  "scripts": {
+    "start": "node ./bin/app.js example/references.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "contributors": [
+    {
+      "name": "Dmytro Vakulenko",
+      "email": "drsmile444@gmail.com",
+      "url": "https://github.com/DrSmile444"
+    }
+  ],
+  "keywords": [
+    "page",
+    "script",
+    "executor",
+    "multiple",
+    "axios",
+    "jsdom"
+  ],
+  "author": "Dmytro Vakulenko",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "open": "^8.2.0",
+    "page-executor": "^1.2.1"
+  }
+}
